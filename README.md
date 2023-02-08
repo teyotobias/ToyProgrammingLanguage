@@ -17,3 +17,5 @@ Blip expressions:
 Binary math operators: +, -, *, /, %
 Binary logic operators: &&, ||
 Comparison Operators: <, >, ==, !=, <=, >= Unary Operators: !, ~
+
+ Equipped with sample cases/tests - change set_input parameter in main.cpp to run different tests
